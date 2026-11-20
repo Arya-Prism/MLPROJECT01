@@ -1,0 +1,377 @@
+[
+  {
+    "id": "evt-sunset-acoustic",
+    "title": "Sunset Acoustic Courtyard Session",
+    "club": "Prism Arts Guild",
+    "date": "2026-11-20",
+    "time": "18:30",
+    "venue": "South Quad Amphitheater",
+    "capacity": 80,
+    "category": "Cultural",
+    "description": "Unwind after Friday lectures with live acoustic sets from four student indie ensembles under the courtyard lights. Hot cider and local pastries are available on the terraced steps while supplies last.",
+    "createdBy": "user-organiser-1",
+    "createdAt": "2026-11-10T10:15:00.000Z",
+    "attendees": [
+      {
+        "userId": "user-student-1",
+        "name": "Alex Rivera (Demo Student)",
+        "email": "student@campus.demo",
+        "registeredAt": "2026-11-18T14:22:00.000Z"
+      },
+      {
+        "userId": "demo-st-101",
+        "name": "Samira Patel (Demo)",
+        "email": "samira.demo@campus.demo",
+        "registeredAt": "2026-11-18T15:04:00.000Z"
+      },
+      {
+        "userId": "demo-st-102",
+        "name": "Devon Brooks (Demo)",
+        "email": "devon.demo@campus.demo",
+        "registeredAt": "2026-11-19T09:30:00.000Z"
+      },
+      {
+        "userId": "demo-st-103",
+        "name": "Mei Lin (Demo)",
+        "email": "mei.demo@campus.demo",
+        "registeredAt": "2026-11-19T11:45:00.000Z"
+      },
+      {
+        "userId": "demo-st-104",
+        "name": "Carlos Mendez (Demo)",
+        "email": "carlos.demo@campus.demo",
+        "registeredAt": "2026-11-19T16:12:00.000Z"
+      },
+      {
+        "userId": "demo-st-105",
+        "name": "Priya Nair (Demo)",
+        "email": "priya.demo@campus.demo",
+        "registeredAt": "2026-11-20T08:05:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "evt-esp32-lab",
+    "title": "Rapid Prototyping with ESP32 Sensors",
+    "club": "Apex Maker Lab",
+    "date": "2026-11-20",
+    "time": "16:00",
+    "venue": "Engineering Hall B-204",
+    "capacity": 6,
+    "category": "Workshop",
+    "description": "Hands-on hardware clinic covering wireless temperature telemetry, breadboard wiring, and low-power sleep loops on ESP32 microcontrollers. All kits and soldering stations are provided at the workbench.",
+    "createdBy": "user-organiser-1",
+    "createdAt": "2026-11-09T09:00:00.000Z",
+    "attendees": [
+      {
+        "userId": "demo-st-101",
+        "name": "Samira Patel (Demo)",
+        "email": "samira.demo@campus.demo",
+        "registeredAt": "2026-11-14T10:00:00.000Z"
+      },
+      {
+        "userId": "demo-st-102",
+        "name": "Devon Brooks (Demo)",
+        "email": "devon.demo@campus.demo",
+        "registeredAt": "2026-11-14T11:20:00.000Z"
+      },
+      {
+        "userId": "demo-st-106",
+        "name": "Toby Jenkins (Demo)",
+        "email": "toby.demo@campus.demo",
+        "registeredAt": "2026-11-15T13:15:00.000Z"
+      },
+      {
+        "userId": "demo-st-107",
+        "name": "Hana Sato (Demo)",
+        "email": "hana.demo@campus.demo",
+        "registeredAt": "2026-11-16T08:45:00.000Z"
+      },
+      {
+        "userId": "demo-st-108",
+        "name": "Noah Okafor (Demo)",
+        "email": "noah.demo@campus.demo",
+        "registeredAt": "2026-11-16T17:30:00.000Z"
+      },
+      {
+        "userId": "demo-st-109",
+        "name": "Elena Novak (Demo)",
+        "email": "elena.demo@campus.demo",
+        "registeredAt": "2026-11-17T09:10:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "evt-civic-ai-hack",
+    "title": "Northgate 24-Hour Civic AI Hackathon",
+    "club": "Northgate CS Collective",
+    "date": "2026-11-21",
+    "time": "09:00",
+    "venue": "Main Innovation Auditorium",
+    "capacity": 50,
+    "category": "Hackathon",
+    "description": "Build practical tools for campus accessibility, transit routing, and study sustainability over 24 hours. Teams of 2 to 4 receive cloud credits, mentor office hours, midnight ramen, and demo slots in front of faculty judges.",
+    "createdBy": "user-organiser-1",
+    "createdAt": "2026-11-05T12:00:00.000Z",
+    "attendees": [
+      {
+        "userId": "demo-st-101",
+        "name": "Samira Patel (Demo)",
+        "email": "samira.demo@campus.demo",
+        "registeredAt": "2026-11-12T10:11:00.000Z"
+      },
+      {
+        "userId": "demo-st-103",
+        "name": "Mei Lin (Demo)",
+        "email": "mei.demo@campus.demo",
+        "registeredAt": "2026-11-13T14:00:00.000Z"
+      },
+      {
+        "userId": "demo-st-104",
+        "name": "Carlos Mendez (Demo)",
+        "email": "carlos.demo@campus.demo",
+        "registeredAt": "2026-11-14T16:40:00.000Z"
+      },
+      {
+        "userId": "demo-st-106",
+        "name": "Toby Jenkins (Demo)",
+        "email": "toby.demo@campus.demo",
+        "registeredAt": "2026-11-15T19:05:00.000Z"
+      },
+      {
+        "userId": "demo-st-107",
+        "name": "Hana Sato (Demo)",
+        "email": "hana.demo@campus.demo",
+        "registeredAt": "2026-11-17T10:50:00.000Z"
+      },
+      {
+        "userId": "demo-st-110",
+        "name": "Liam Chen (Demo)",
+        "email": "liam.demo@campus.demo",
+        "registeredAt": "2026-11-18T12:30:00.000Z"
+      },
+      {
+        "userId": "demo-st-111",
+        "name": "Zara Al-Mansoor (Demo)",
+        "email": "zara.demo@campus.demo",
+        "registeredAt": "2026-11-19T15:18:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "evt-intramural-cup",
+    "title": "Floodlight 7-a-Side Intramural Cup",
+    "club": "Campus Athletics Council",
+    "date": "2026-11-22",
+    "time": "17:30",
+    "venue": "West Field Turf Pitch 2",
+    "capacity": 28,
+    "category": "Sports",
+    "description": "Fast-paced mixed-skill knockout tournament open to solo sign-ups and dorm squads. Jerseys, referees, and hydration stations are ready on-site—bring turf cleats or running shoes.",
+    "createdBy": "user-organiser-1",
+    "createdAt": "2026-11-08T16:00:00.000Z",
+    "attendees": [
+      {
+        "userId": "demo-st-102",
+        "name": "Devon Brooks (Demo)",
+        "email": "devon.demo@campus.demo",
+        "registeredAt": "2026-11-15T09:20:00.000Z"
+      },
+      {
+        "userId": "demo-st-105",
+        "name": "Priya Nair (Demo)",
+        "email": "priya.demo@campus.demo",
+        "registeredAt": "2026-11-16T11:40:00.000Z"
+      },
+      {
+        "userId": "demo-st-108",
+        "name": "Noah Okafor (Demo)",
+        "email": "noah.demo@campus.demo",
+        "registeredAt": "2026-11-18T18:10:00.000Z"
+      },
+      {
+        "userId": "demo-st-112",
+        "name": "Maya Kowalski (Demo)",
+        "email": "maya.demo@campus.demo",
+        "registeredAt": "2026-11-19T08:55:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "evt-design-critique",
+    "title": "Product & Portfolio Critique Circle",
+    "club": "Foundry Design Guild",
+    "date": "2026-11-24",
+    "time": "17:00",
+    "venue": "Library Glass Commons 3F",
+    "capacity": 30,
+    "category": "Club Meetup",
+    "description": "Bring a Figma prototype, side-project interface, or internship case study for structured 10-minute peer feedback rounds. Great for students preparing spring portfolio reviews.",
+    "createdBy": "user-organiser-1",
+    "createdAt": "2026-11-11T14:30:00.000Z",
+    "attendees": [
+      {
+        "userId": "user-student-1",
+        "name": "Alex Rivera (Demo Student)",
+        "email": "student@campus.demo",
+        "registeredAt": "2026-11-19T13:10:00.000Z"
+      },
+      {
+        "userId": "demo-st-109",
+        "name": "Elena Novak (Demo)",
+        "email": "elena.demo@campus.demo",
+        "registeredAt": "2026-11-19T14:00:00.000Z"
+      },
+      {
+        "userId": "demo-st-111",
+        "name": "Zara Al-Mansoor (Demo)",
+        "email": "zara.demo@campus.demo",
+        "registeredAt": "2026-11-20T09:12:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "evt-drone-vision",
+    "title": "Autonomous Drone Vision Workshop",
+    "club": "Nova Robotics Society",
+    "date": "2026-11-25",
+    "time": "15:30",
+    "venue": "Robotics Annex 110",
+    "capacity": 8,
+    "category": "Workshop",
+    "description": "Train a lightweight obstacle-detection pipeline and test it live on our indoor micro-quadcopter arena. Basic Python familiarity is recommended; laptops with Python 3.11 ready are welcome.",
+    "createdBy": "user-organiser-1",
+    "createdAt": "2026-11-12T08:00:00.000Z",
+    "attendees": [
+      {
+        "userId": "demo-st-101",
+        "name": "Samira Patel (Demo)",
+        "email": "samira.demo@campus.demo",
+        "registeredAt": "2026-11-16T10:15:00.000Z"
+      },
+      {
+        "userId": "demo-st-104",
+        "name": "Carlos Mendez (Demo)",
+        "email": "carlos.demo@campus.demo",
+        "registeredAt": "2026-11-16T14:25:00.000Z"
+      },
+      {
+        "userId": "demo-st-106",
+        "name": "Toby Jenkins (Demo)",
+        "email": "toby.demo@campus.demo",
+        "registeredAt": "2026-11-17T11:00:00.000Z"
+      },
+      {
+        "userId": "demo-st-107",
+        "name": "Hana Sato (Demo)",
+        "email": "hana.demo@campus.demo",
+        "registeredAt": "2026-11-18T09:40:00.000Z"
+      },
+      {
+        "userId": "demo-st-110",
+        "name": "Liam Chen (Demo)",
+        "email": "liam.demo@campus.demo",
+        "registeredAt": "2026-11-18T16:50:00.000Z"
+      },
+      {
+        "userId": "demo-st-112",
+        "name": "Maya Kowalski (Demo)",
+        "email": "maya.demo@campus.demo",
+        "registeredAt": "2026-11-19T12:00:00.000Z"
+      },
+      {
+        "userId": "demo-st-113",
+        "name": "Omar Farooq (Demo)",
+        "email": "omar.demo@campus.demo",
+        "registeredAt": "2026-11-19T19:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "evt-oss-coffee",
+    "title": "Open-Source Maintainers Coffee Hour",
+    "club": "Northgate CS Collective",
+    "date": "2026-11-29",
+    "time": "11:00",
+    "venue": "Student Union Atrium",
+    "capacity": 40,
+    "category": "Club Meetup",
+    "description": "Casual Sunday morning meetup for students contributing to open-source libraries, CLI tools, and university research packages. Find first-issue buddies and ship a pull request together.",
+    "createdBy": "user-organiser-1",
+    "createdAt": "2026-11-14T11:20:00.000Z",
+    "attendees": [
+      {
+        "userId": "demo-st-103",
+        "name": "Mei Lin (Demo)",
+        "email": "mei.demo@campus.demo",
+        "registeredAt": "2026-11-18T10:00:00.000Z"
+      },
+      {
+        "userId": "demo-st-110",
+        "name": "Liam Chen (Demo)",
+        "email": "liam.demo@campus.demo",
+        "registeredAt": "2026-11-19T17:15:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "evt-autumn-film",
+    "title": "Autumn Short Film & Photo Showcase",
+    "club": "Prism Arts Guild",
+    "date": "2026-11-18",
+    "time": "19:00",
+    "venue": "Fine Arts Gallery Hall",
+    "capacity": 60,
+    "category": "Cultural",
+    "description": "Screening of nine student-directed short documentaries followed by a darkroom photography walk-through and Q&A with student filmmakers.",
+    "createdBy": "user-organiser-1",
+    "createdAt": "2026-11-01T10:00:00.000Z",
+    "attendees": [
+      {
+        "userId": "demo-st-101",
+        "name": "Samira Patel (Demo)",
+        "email": "samira.demo@campus.demo",
+        "registeredAt": "2026-11-08T12:00:00.000Z"
+      },
+      {
+        "userId": "demo-st-105",
+        "name": "Priya Nair (Demo)",
+        "email": "priya.demo@campus.demo",
+        "registeredAt": "2026-11-09T14:00:00.000Z"
+      },
+      {
+        "userId": "demo-st-109",
+        "name": "Elena Novak (Demo)",
+        "email": "elena.demo@campus.demo",
+        "registeredAt": "2026-11-11T16:30:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "evt-rust-sprint",
+    "title": "Systems Programming Mini-Hackathon",
+    "club": "Northgate CS Collective",
+    "date": "2026-11-15",
+    "time": "10:00",
+    "venue": "Science Lecture Hall 1",
+    "capacity": 35,
+    "category": "Hackathon",
+    "description": "Six-hour weekend sprint focused on building high-throughput CLI utilities and network parsers in Rust and Go.",
+    "createdBy": "user-organiser-1",
+    "createdAt": "2026-10-28T09:00:00.000Z",
+    "attendees": [
+      {
+        "userId": "demo-st-104",
+        "name": "Carlos Mendez (Demo)",
+        "email": "carlos.demo@campus.demo",
+        "registeredAt": "2026-11-03T11:00:00.000Z"
+      },
+      {
+        "userId": "demo-st-106",
+        "name": "Toby Jenkins (Demo)",
+        "email": "toby.demo@campus.demo",
+        "registeredAt": "2026-11-05T15:20:00.000Z"
+      }
+    ]
+  }
+]

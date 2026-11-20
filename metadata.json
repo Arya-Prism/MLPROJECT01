@@ -1,0 +1,6 @@
+{
+  "name": "CampusPulse",
+  "description": "Smart campus event discovery and organiser publishing platform with instant 1-tap student registration and AI-assisted event workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
